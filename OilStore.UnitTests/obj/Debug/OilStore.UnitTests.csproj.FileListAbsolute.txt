@@ -1,0 +1,15 @@
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.UnitTests.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.UnitTests.pdb
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\obj\Debug\OilStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\obj\Debug\OilStore.UnitTests.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\obj\Debug\OilStore.UnitTests.pdb
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.UnitTests.dll.config
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.Domain.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.WebUi.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.Domain.pdb
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\OilStore.WebUi.pdb
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.UnitTests\bin\Debug\Ninject.xml

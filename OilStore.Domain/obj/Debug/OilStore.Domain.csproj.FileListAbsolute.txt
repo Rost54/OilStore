@@ -1,0 +1,5 @@
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.Domain\bin\Debug\OilStore.Domain.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.Domain\bin\Debug\OilStore.Domain.pdb
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.Domain\obj\Debug\OilStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.Domain\obj\Debug\OilStore.Domain.dll
+C:\Users\rost5_000\Documents\GitRepository\OilStore\OilStore.Domain\obj\Debug\OilStore.Domain.pdb
